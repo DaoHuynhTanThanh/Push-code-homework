@@ -1,3 +1,15 @@
+1. Tạo project trên GIThub
+Cách tạo 1 repository
+Bước 1: Tạo repository trên Github.
+Bước 2: Clone file về : git clone HTTPS-link
+
+2. Tạo Local đẩy lên GIThub
+git init
+git status               Kiểm tra 
+git add .
+git commit -m
+git remote add origin http-link
+git push origin master
 
 
 
